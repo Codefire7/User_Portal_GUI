@@ -25,8 +25,7 @@ You can do this by entering the following commands in MySQL Command Line Client
 CREATE DATABASE <database_name>;
 CREATE TABLE user (username varchar(20), password varchar(20))
 ```
-Now download the main.py file and replace the database variable to whatever 
-you named your database on line 60 and l06. Ensure that the database is online and then run the script
+Now download the main.py file and replace the database, user, and password variables appropriately on line 60 and 106. Ensure that the database is online and then run the script
 
 ## Windows
 
