@@ -57,7 +57,7 @@ class loginWindow:
         self.master.destroy()
 
     def login(self):
-        connection = connector.connect(host="localhost", user="root", passwd="UsErPa$$@007", database="project")
+        connection = connector.connect(host="localhost", user="root", passwd="password", database="project")
         cursor = connection.cursor()
         cursor.execute("select * from user;")
         db = dict()
