@@ -30,7 +30,9 @@ Now download the main.py file and replace the database, user, and password varia
 ## Windows
 
 ![Main](Screenshots/main.jpg)
+
 ![Sign_in](Screenshots/sign_in.jpg)
+
 ![Sign_up](Screenshots/sign_up.jpg)
 
 ## Conclusion
